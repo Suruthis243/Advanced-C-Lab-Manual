@@ -15,8 +15,7 @@ Else
 6.	Return 0
  
 Program:
-
-//type your code here
+;
 
 
 Output:
